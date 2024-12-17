@@ -1,9 +1,9 @@
-## HOW shoude TO USE
+## HOW TO USE
 
-### -- 1. Oper mysql client  
+### -- 1. Open mysql client  
 mysql -u your_username -p  
 
-### -- 2. Enter passwor: (from base owner)
+### -- 2. Enter password: (from base owner)
 
 ### -- 3. Select database.  
 USE ShopDB;  
